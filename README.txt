@@ -1,0 +1,4 @@
+- Himanshu Chaudhary
+- UNM CS251 Fall 2015
+- Program 3: ClickAid (Enhanced Version)
+- No bugs were found.

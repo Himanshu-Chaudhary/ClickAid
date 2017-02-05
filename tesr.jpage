@@ -1,0 +1,1 @@
+  String[] pastry = {"cake","pie","donut","croissant"};        String [] item = {"lie","truth","treat","dessert","crab"};        for(int a = 0; a<pastry.length;a++){        	for (int b = a; b < item.length ; b++){        		String message = "The " + pastry[a];        		message += " ia a " + item[b] + ".";        		System.out.println(message);        	}        }
